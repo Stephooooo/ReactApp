@@ -1,0 +1,51 @@
+{
+  "todos": [
+    {
+      "id": "gh47kj",
+      "completed": true,
+      "category": "home-chores",
+      "description": "Take out trash and visit made around the corner",
+      "tags": [
+        "important",
+        "urgent"
+      ]
+    },
+    {
+      "id": "gh6793",
+      "completed": false,
+      "category": "work-stuff",
+      "description": "Do the React application and the json-server part",
+      "tags": [
+        "urgent"
+      ]
+    },
+    {
+      "id": "h34ije",
+      "completed": false,
+      "category": "Work-stuff",
+      "description": "Go out with friends to Ikigai on Saturday",
+      "tags": [
+        "important"
+      ]
+    },
+    {
+      "id": "ijh53o",
+      "completed": true,
+      "category": "home-chores",
+      "description": "Take out trash and visit made around the corner",
+      "tags": [
+        "important",
+        "urgent"
+      ]
+    },
+    {
+      "id": "jtri34",
+      "completed": false,
+      "category": "home-chores",
+      "description": "Wash Utensils using strepsils",
+      "tags": [
+        "important"
+      ]
+    }
+  ]
+}
